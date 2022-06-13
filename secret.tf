@@ -20,5 +20,5 @@ variable "secret" {
 variable "subscriptionshub" {
   description = "Please provide the subscription IDs."
   type        = string
-  default     = "a73edb96129c0dd4"
+  default     = "180be318-3bda-484b-9b28-27ffcbe8b622"
 }
